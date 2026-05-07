@@ -1,0 +1,35 @@
+# Environment
+.env
+token.json
+credentials.json
+
+# Output
+output/
+
+# Backgrounds
+backgrounds/*
+!backgrounds/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
